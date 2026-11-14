@@ -12,13 +12,13 @@ The analysis takes the view of Olist's management and asks how to grow sales, im
 
 ## Key findings
 
-The analysis covers 96,478 delivered orders (September 2016 – August 2018), R\$ 13.22M GMV and 93,358 unique customers.
+The analysis covers 96,478 delivered orders (September 2016 – August 2018), BRL 13.22M GMV and 93,358 unique customers.
 
-- **Growth has plateaued.** Monthly GMV grew from R\$ 40K (Oct 2016) to R\$ 0.86–0.98M by mid-2018 and has been flat since March 2018.
+- **Growth has plateaued.** Monthly GMV grew from BRL 40K (Oct 2016) to BRL 0.86–0.98M by mid-2018 and has been flat since March 2018.
 - **Demand is geographically concentrated.** Seven states generate 81% of GMV; São Paulo alone generates 38%.
 - **Missed delivery dates are associated with much lower satisfaction.** Only 6.8% of delivered orders arrive late, yet the share of 1–2 star reviews rises from 9.2% for early orders to 41–79% for late ones. The gap also appears among orders of similar duration (21+ days: 66.5% low ratings for late vs 15.5% for on-time orders).
 - **Retention is very low.** Only 3% of customers ordered more than once, so growth depends almost entirely on acquiring new customers.
-- **Seller revenue is highly right-skewed.** The average seller generates R\$ 4,452 but the median seller only R\$ 846, which suggests that a small group of large sellers carries a disproportionate share of GMV (the exact share was not measured).
+- **Seller revenue is highly right-skewed.** The average seller generates BRL 4,452 but the median seller only BRL 846, which suggests that a small group of large sellers carries a disproportionate share of GMV (the exact share was not measured).
 - **Installments are linked to larger baskets.** 51.5% of orders use installments; they have a 72% higher average order value and account for 65% of GMV.
 
 The notebook turns these into six business recommendations: prioritize delivery-date reliability, enforce seller handover SLAs, investigate extreme delays, convert one-time buyers, grow strong categories and small sellers, and protect installment availability.
