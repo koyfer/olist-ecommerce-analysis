@@ -1,0 +1,8 @@
+pandas>=1.5
+numpy
+scipy
+matplotlib
+seaborn>=0.12
+kagglehub
+unidecode
+notebook
